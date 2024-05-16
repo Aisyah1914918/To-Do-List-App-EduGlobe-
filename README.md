@@ -2,7 +2,7 @@
 A simple and intuitive To-Do List application built with PHP, HTML, CSS, Javascript. 
 
 ## Features
-- Registeration
+- Registration
 - Login
 - Add new tasks
 - Mark tasks as completed
